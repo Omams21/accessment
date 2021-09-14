@@ -1,3 +1,4 @@
+// a function to change to uppercase letter
 function UpperCase(str) {
     str = str.toLowerCase().split(' ');
     for (var i = 0; i < str.length; i++) {
