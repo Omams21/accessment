@@ -6,3 +6,5 @@ function UpperCase(str) {
     }
     return str.join(' ');
   };
+  UpperCase("This Is Good")
+console.log(UpperCase("This Is Good"));

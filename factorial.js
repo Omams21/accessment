@@ -5,7 +5,8 @@ function factorialize(num) {
     else {
         return (num * factorialize(num - 1));
     }
-  }
+  };
+  console.log(factorialize(5));
 
 
 
